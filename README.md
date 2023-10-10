@@ -1,6 +1,6 @@
 # Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
 
-### DATE: 
+### DATE: 03/10/2023
 
 ## AIM:
 ### To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
@@ -32,9 +32,10 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
+![272140951-3391486b-6dde-46f8-aa18-d217b31a1d72](https://github.com/Yuva2005raj/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118343998/1f79c8ea-0244-4e2c-944d-bd12e971bb22)
 
-### Name:
-### Register Number:
+### Name: YUVARAJ B
+### Register Number:212222230182
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
